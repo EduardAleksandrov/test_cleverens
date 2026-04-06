@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Cleverens/Cleverens.csproj" />
+  <Project Path="Test/Test.csproj" />
+</Solution>
