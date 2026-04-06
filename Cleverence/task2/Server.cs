@@ -8,7 +8,6 @@ public static class Server
     private static int _count = 0;
     
     // Используем ReaderWriterLockSlim для управления доступом.
-    // LockRecursionPolicy.NoRecursion рекомендуется для производительности.
     private static readonly ReaderWriterLockSlim _lock = new ReaderWriterLockSlim();
 
     public static int GetCount()
