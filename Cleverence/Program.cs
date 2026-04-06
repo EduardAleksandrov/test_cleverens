@@ -1,9 +1,9 @@
-﻿using Cleverens.task3;
+﻿using Cleverence.task3;
 internal class Program
 {
     private static async Task Main(string[] args)
     {
-        Console.WriteLine("Hello, Cleverens!");
+        Console.WriteLine("Hello, Cleverence!");
 
         // task3
         string pathi = Path.Combine("task3", "input.log");

@@ -4,7 +4,7 @@ using Xunit;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Linq;
-using Cleverens.task2;
+using Cleverence.task2;
 
 public class ServerTests
 {

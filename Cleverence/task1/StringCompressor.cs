@@ -1,4 +1,4 @@
-namespace Cleverens.task1;
+namespace Cleverence.task1;
 
 using System.Text;
 

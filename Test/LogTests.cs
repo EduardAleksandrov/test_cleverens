@@ -1,7 +1,7 @@
 namespace Test;
 
 using Xunit;
-using Cleverens.task3;
+using Cleverence.task3;
 
 public class LogStandardizerTests
 {

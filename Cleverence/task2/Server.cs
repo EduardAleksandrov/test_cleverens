@@ -1,4 +1,4 @@
-namespace Cleverens.task2;
+namespace Cleverence.task2;
 
 using System.Threading;
 

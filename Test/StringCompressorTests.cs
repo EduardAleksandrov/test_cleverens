@@ -1,7 +1,7 @@
 namespace Test;
 
 using Xunit;
-using Cleverens.task1;
+using Cleverence.task1;
 
 public class StringCompressorTests
 {
